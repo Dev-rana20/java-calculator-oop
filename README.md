@@ -17,3 +17,10 @@ A menu-driven Java calculator using Object-Oriented Programming concepts.
 javac Calculator.java Main.java
 java Main
 ```
+
+## Advanced Features
+
+- Interface-based design
+- Exception handling using try-catch
+- Polymorphism
+- Clean OOP architecture
