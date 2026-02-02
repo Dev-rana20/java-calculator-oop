@@ -24,3 +24,19 @@ java Main
 - Exception handling using try-catch
 - Polymorphism
 - Clean OOP architecture
+
+## UI Version (Swing)
+
+This project also includes a GUI version using Java Swing.
+
+Features:
+
+- Desktop UI
+- Uses existing OOP calculator logic
+- Input validation
+- Error handling with dialog boxes
+
+Demonstrates:
+
+- Console → UI conversion
+- Separation of logic and UI
